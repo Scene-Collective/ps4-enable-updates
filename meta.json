@@ -9,7 +9,7 @@
     "en": "Enables updates by deleting the dummy directories created by 'Disable Updates'."
   },
   "author": "",
-  "url": "",
+  "url": "https://github.com/Scene-Collective/ps4-enable-updates",
   "redirect": false,
   "reload": false,
   "offline": true
