@@ -1,4 +1,4 @@
-Disable Updates
+Enable Updates
 ===
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b3e0f65f761547d4be26b376af74c6e3)](https://www.codacy.com/gh/Scene-Collective/ps4-enable-updates/dashboard)
 
