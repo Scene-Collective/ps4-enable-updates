@@ -1,13 +1,11 @@
-#include "kernel_utils.h"
+#include "ps4.h"
 
 int _main(struct thread *td) {
+  UNUSED(td);
+
   initKernel();
   initLibc();
-  initPthread();
-
-  uint64_t fw_version = get_fw_version();
-  jailbreak(fw_version);
-
+  jailbreak();
   initSysUtil();
 
   unlink("/update/PS4UPDATE.PUP.net.temp");
