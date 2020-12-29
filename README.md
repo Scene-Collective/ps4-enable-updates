@@ -3,7 +3,6 @@ Enable Updates
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b3e0f65f761547d4be26b376af74c6e3)](https://www.codacy.com/gh/Scene-Collective/ps4-enable-updates/dashboard)
 
 ## Synopsis
-
 Enables updates by deleting the dummy directories created by 'Disable Updates'
 
 For the payloads built with the most recent firmware supported visit [this repo].
